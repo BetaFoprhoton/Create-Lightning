@@ -1,0 +1,9 @@
+{
+  "itemGroup.createlightning:base": "Create: Lightning",
+  "tooltip.blockElectricCharge": "Electric Charge",
+
+  "item.createlightning.slimy_resistive_gel": "Slimy Resistive Gel",
+  "item.createlightning.resistive_gel": "Resistive Gel",
+  "item.createlightning.electric_staff": "Electric Staff",
+  "item.createlightning.leyden_helmet": "Leyden Helmet"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "fluid": "create:potion",
+      "amount": 1000,
+      "nbt": {
+        "Potion": "minecraft:long_slow_falling"
+      }
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 50,
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "createlightning:slimy_resistive_gel"
+    }
+
+  ],
+  "heatRequirement": "heated",
+  "processingTime": 2000
+}

@@ -1,0 +1,7 @@
+{
+	"variants": {
+	  "": {
+		"model": "createlightning:block/resistive_gel_block"
+	  }
+	}
+  }

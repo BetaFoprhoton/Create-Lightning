@@ -1,0 +1,9 @@
+{
+  "itemGroup.createlightning:base": "机械动力: 闪电工艺",
+  "tooltip.blockElectricCharge": "电荷储备",
+
+  "item.createlightning.slimy_resistive_gel": "粘液态的绝缘凝胶",
+  "item.createlightning.resistive_gel": "绝缘凝胶",
+  "item.createlightning.electric_staff": "电能法杖",
+  "item.createlightning.leyden_helmet": "莱顿头盔",
+}

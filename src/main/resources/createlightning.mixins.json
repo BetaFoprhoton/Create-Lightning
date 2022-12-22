@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8.3",
+  "priority": 1000,
+  "package": "com.betaforge1.createlightning.foundation.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "createlightning.refmap.json",
+  "mixins": [
+    "AnimateTickMixin",
+    "onLightningStrikeMixin"
+  ],
+  "client": [
+  ],"server": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

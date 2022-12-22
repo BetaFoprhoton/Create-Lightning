@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="GNU GPLv3"
+[[mods]]
+modId="createlightning"
+version="${file.jarVersion}"
+displayName="CreateLightning"
+logoFile="createlightning.png"
+authors="Beta_forge1"
+credits="Mysterious and strange static electricity!"
+description='''
+Mysterious and strange static electricity!
+'''
+versionRange="[1.18,1.19)"
+ordering="NONE"
+side="BOTH"

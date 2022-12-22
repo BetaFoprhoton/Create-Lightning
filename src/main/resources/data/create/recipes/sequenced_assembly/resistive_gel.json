@@ -1,0 +1,49 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createlightning:slimy_resistive_gel"
+  },
+  "transitionalItem": {
+    "item": "createlightning:slimy_resistive_gel"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createlightning:slimy_resistive_gel"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 250
+        }
+      ],
+      "results": [
+        {
+          "item": "createlightning:slimy_resistive_gel"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createlightning:slimy_resistive_gel"
+        }
+      ],
+      "results": [
+        {
+          "item": "createlightning:slimy_resistive_gel"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createlightning:resistive_gel",
+      "count": 2
+    }
+  ],
+  "loops": 1
+}
